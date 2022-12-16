@@ -8,7 +8,8 @@ O apliativo foi criado incialmente como trabalho final da disciplina de programa
 
 A lógica de jogo implementada foi baseada no projeto "Chess Engine in Python", de Eddie Sharick.
 
-O conteúdo do projeto de Eddie está disponível em: https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick .
+O conteúdo do projeto de Eddie está disponível em:
+https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick .
 
 --------------------------------------------------------------------------------------------------------------------------
 ### Configurações necessárias
