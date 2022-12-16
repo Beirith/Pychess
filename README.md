@@ -31,6 +31,6 @@ No modo normal, o jogo funciona como um jogo de xadrez padrão, com os turno de 
 
 No modo sandbox, não há limitação de turnos, ambas as peças pretas e brancas podem se movimentar a qualquer momento e também não há lógica de movimentação das peças, sendo possível a realização de qualquer movimento.
 
-A lógica de cheque e chque mate ainda não foi implementada, então é possível realizar alguns movimentos inválidos em modo de jogo normal quando o rei está ameaçado.
+A lógica de cheque e chque mate ainda não foi implementada, então é possível realizar alguns movimentos inválidos no modo de jogo normal em situações onde o rei está ameaçado.
 
 --------------------------------------------------------------------------------------------------------------------------
