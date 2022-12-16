@@ -14,6 +14,7 @@ Modo de uso
 Para o fucnionamento correto do programa, é necessária a instalação da biblioteca "Pygame", e para instalar tal biblioteca, é necessário possuir o pacote Pip, que é o sistema gerenciador de pacotes python.
 
 Para instalar o Pip: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
+
 Para instalar o Pygame: https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
 
 O programa possui dois tipos de inicialização, normal e sandbox. 
