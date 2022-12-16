@@ -17,6 +17,8 @@ Para instalar o Pip: https://www.geeksforgeeks.org/how-to-install-pip-on-windows
 
 Para instalar o Pygame: https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/
 
+Além da instalação destes pacotes, é necessária a alteração de um valor no código. Nas linhas 139 e 181 do arquivo main é preciso identificar o caminho da pasta saves do programa. A identificação precisa ser do tipo r'caminho', como por exemplo r'E:\Users\user\Desktop\chess\saves'.
+
 O programa possui dois tipos de inicialização, normal e sandbox. 
 
 No modo normal, o jogo funciona como um jogo de xadrez padrão, com os turno de jogada estipulados (brancas e pretas) e com todas as regras de movimentação das peças.
