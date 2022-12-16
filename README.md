@@ -3,13 +3,13 @@
 Jogo de xadrez feito a partir do módulo pygame
 
 --------------------------------------------------------------------------------------------------------------------------
-O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
+## O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
 
 A lógica de jogo implementada foi baseada no projeto "Chess Engine in Python", de Eddie Sharick. 
 O conteúdo do projeto de Eddie está disponível em https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick .
 
 --------------------------------------------------------------------------------------------------------------------------
-Modo de uso
+### Modo de uso
 
 Para o fucnionamento correto do programa, é necessária a instalação da biblioteca "Pygame", e para instalar tal biblioteca, é necessário possuir o pacote Pip, que é o sistema gerenciador de pacotes python.
 
