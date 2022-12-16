@@ -2,7 +2,9 @@
 ## Jogo de xadrez feito a partir do módulo pygame
 
 --------------------------------------------------------------------------------------------------------------------------
-O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
+### Sobre o projeto
+
+O apliativo foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
 
 A lógica de jogo implementada foi baseada no projeto "Chess Engine in Python", de Eddie Sharick.
 
