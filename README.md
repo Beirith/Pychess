@@ -1,9 +1,9 @@
 # Pychess
 
-Jogo de xadrez feito a partir do módulo pygame
+# Jogo de xadrez feito a partir do módulo pygame
 
 --------------------------------------------------------------------------------------------------------------------------
-## O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
+O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
 
 A lógica de jogo implementada foi baseada no projeto "Chess Engine in Python", de Eddie Sharick. 
 O conteúdo do projeto de Eddie está disponível em https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick .
