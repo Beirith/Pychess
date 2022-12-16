@@ -1,6 +1,6 @@
 # Pychess
 
-# Jogo de xadrez feito a partir do módulo pygame
+Jogo de xadrez feito a partir do módulo pygame
 
 --------------------------------------------------------------------------------------------------------------------------
 O projeto foi criado incialmente como trabalho final da disciplina de programação orientada a objetos 2, da Universidade Federal de Santa Catarina. 
